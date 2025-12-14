@@ -1,0 +1,35 @@
+/* Basic global styles for the ultra coach app */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  background: #fafafa;
+  color: #222;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  padding: 1rem;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+
+main {
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
