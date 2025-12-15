@@ -13,11 +13,11 @@
   "license": "MIT",
   "description": "Ultra running coach web app",
   "dependencies": {
-      "next": "13.5.1",,
+    "next": "13.5.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "@supabase/supabase-js": "2.38.2",
-  "resend": "6.6.0",
+    "resend": "6.6.0",
     "zod": "3.22.4"
   },
   "devDependencies": {
